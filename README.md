@@ -1,4 +1,4 @@
-# Online-Python-Programlama-Dili-Kursu-21-Mart-2023
+# Online Python Programlama Dili Kursu - 21 Mart 2023
 
 
 
@@ -14,4 +14,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-21-Mart-2023/blob/main/_kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-21-Mart-2023/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-21-Mart-2023/blob/main/sss.md)
-+ [Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZcqdemsqT8jE9MXE8vwoPm9uWpdl3_9wcka)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZcqdemsqT8jE9MXE8vwoPm9uWpdl3_9wcka)
