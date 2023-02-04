@@ -182,5 +182,5 @@
     * Paket Yönetimi
     
 # Kursa Kayıt
-Kursa aşağıdaki bağlantıdan ön kayıt yaptırabilirsiniz:<br>
-[Kursa Kayıt]( https://us02web.zoom.us/meeting/register/tZcqdemsqT8jE9MXE8vwoPm9uWpdl3_9wcka)
+
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us02web.zoom.us/meeting/register/tZcqdemsqT8jE9MXE8vwoPm9uWpdl3_9wcka)
